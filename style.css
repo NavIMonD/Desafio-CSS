@@ -1,0 +1,23 @@
+nav {
+    background-color: rgb(156, 149, 149);
+    text-align: right;
+    padding: 1em 0 1em;
+}
+
+section {
+    margin: 0 20%;
+}
+
+.logohtml {
+    margin-left: 5%;
+}
+
+footer {
+    background-color: rgb(156, 149, 149);
+    text-align: center;
+    margin-top: 2em;
+}
+
+.nombre {
+    font-weight: bold;
+}
